@@ -7,10 +7,16 @@ body {
     height: 100%;
 }
 
+.sidebar-wrapper span {
+    color: #333;
+}
+.sidebar-wrapper .insta-container {
+    margin: 10px auto 0;
+}
+
 .main-wrapper .job-title {
     font-weight: 900;
 }
-
 .main-wrapper .activities-section .item {
     margin-bottom: 20px;
 }
